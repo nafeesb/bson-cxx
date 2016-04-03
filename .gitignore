@@ -1,0 +1,5 @@
+install
+.sconsign.dblite
+*.o
+*~
+

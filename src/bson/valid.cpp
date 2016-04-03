@@ -16,7 +16,7 @@
 
 #include <limits>
 #include <cmath>
-//#include <boost/lexical_cast.hpp>
+#include <boost/lexical_cast.hpp>
 //#include <boost/static_assert.hpp>
 //#include "bson_validate.h"
 #include "oid.h"
